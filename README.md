@@ -1,6 +1,6 @@
 # Linear-Regression-Python
 ## Description
-<p>The project is intedent for begginers and aim to understand the basic of <b>LR</b>, you can watch how it will look like on colab without installing required libraries</p>
+<p>The project is intended for begginers and aims to understand the basic of LR, you can watch how it will look on collab without installing the required libraries</p>
 <a href="https://colab.research.google.com/drive/1ljtf6FTteFNOFsBLAXf7qoR8aRTIkt-t">Click here to view</a>
 
 ## Setup
